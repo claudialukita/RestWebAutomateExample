@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Dec 30 13:24:05 ICT 2020
+wiremock-2.21.0-sources.jar>central=
+wiremock-2.21.0.pom>central=
+wiremock-2.21.0.jar>central=
