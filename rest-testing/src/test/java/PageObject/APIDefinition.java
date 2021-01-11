@@ -87,7 +87,7 @@ public class APIDefinition {
         if(arg.equals("1")){
             strURI = "https://jsonplaceholder.typicode.com/posts/" + arg;
         } else if (arg.equals("all")){
-            strURI = "https://jsonplaceholder.typicode.com/posts";
+            strURI = "https://prumedical-dev.pru.intranet.asia/admission";
         }
         HttpGet request = new HttpGet(strURI);
         request.addHeader("accept", APPLICATION_JSON);
